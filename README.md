@@ -46,11 +46,11 @@ Before running the analysis, the following packages must be run/installed in Goo
 
 For a visual reference as to how the analysis was performed, please refer to the below:
 
-![Holiday Period Search Trend](Images/mercado_trends_winter_holiday_period.PNG)
+![Holiday Period Search Trend](Images/mercado_trends_winter_holiday_period.png)
 
-![Search Trend Heatmap](Images/mercado_trends_heatmap.PNG)
+![Search Trend Heatmap](Images/mercado_trends_heatmap.png)
 
-![Comparison of Close Price and Search Trend](Images/first_half_2020_shared.PNG)
+![Comparison of Close Price and Search Trend](Images/first_half_2020_shared.png)
 
 
 ---
